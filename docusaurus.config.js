@@ -21,6 +21,7 @@ module.exports = {
             items: [
                 { to: 'workshops', label: 'Workshops', position: 'left' },
                 { to: 'vision', label: 'Vision', position: 'left' },
+                { to: 'hardfork-planning', label: 'Hardfork Planning', position: 'left' },
                 {
                   href: "https://github.com/IntersectMBO/product-website",
                   label: "GitHub",
