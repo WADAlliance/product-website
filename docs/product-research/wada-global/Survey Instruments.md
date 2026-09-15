@@ -53,7 +53,7 @@ The quantitative survey runs through a [digital form](https://forms.gle/xfsSuxkK
 
 ## Qualitative Survey
 
-The interview guide is built for a 20 - 30 minutes semi structured conversation. It will be used the same way across all three hubs with follow up probes left open for the interviewer to pursue naturally rather than scripted word for word.
+The interview guide is built for a forty-five minutes semi structured conversation. It will be used the same way across all three hubs with follow up probes left open for the interviewer to pursue naturally rather than scripted word for word.
 
 **Opening**
 
