@@ -1,12 +1,11 @@
 Aug 7, 2026
 
 ## **Project CPC-26-0012 Research Plan Validation**
+### Note: The contents of this document, even though generated with Gemini AI, has been proof-read and validated humanly by the Project Lead - Nana Safo.
 
 Present: Nana Safo, Samuel Kobi, Nathaniel Dwamena, Herine Omollo, and Abdulrahman Abdulbasit
 
-Attachments: [Project CPC-26-0012 Research Plan Validation](https://calendar.google.com/calendar/event?eid=NDFkcDc4MGk0Zm1xOGw1ZW9hMjZtMW4yajQgbmFuYS5zYWZvQHdhZGEub3Jn) [Project CPC-26-0012 Research Plan Validation - 2026/08/07 09:58 GMT – Recording](https://drive.google.com/file/d/1fO7FMS0NdqWQJIhVSBdGzcvKjUMt3Knt/view?usp=drive_web) [Milestone 1 Deliverable.pdf](https://drive.google.com/open?id=1GDps29jhgR1T26Jdyou2pkCszLyFkCAQ)
-
-Meeting records [Transcript](https://docs.google.com/document/d/1QVInbRMtLqHjxdqNgjlPKvqFGW_Ii3i9RVvET0nIdQk/edit?usp=drive_web&tab=t.mtnve5by219v) [Recording 2](https://drive.google.com/file/d/1JxQ8h1D7Q-wwV2rn560zQnMxOxP5qn3V/view?usp=drive_web) [Recording](https://drive.google.com/file/d/1fO7FMS0NdqWQJIhVSBdGzcvKjUMt3Knt/view?usp=drive_web) 
+Meeting records: [Recording](https://drive.google.com/file/d/1JxQ8h1D7Q-wwV2rn560zQnMxOxP5qn3V/view?usp=drive_web) 
 
 ### **Summary**
 
