@@ -1,4 +1,4 @@
-# Survey Instruments - Section 4 of [Complete Research Design Document](.../Complete%20Research%20Design%20Document.md)
+# Survey Instruments - Section 4 of [Complete Research Design Document](./Complete%20Research%20Design%20Document.md)
 
 ## Quantitative Survey
 The quantitative survey runs through a [digital form](https://forms.gle/xfsSuxkKf1AJJviv7) and takes about eight to ten minutes to complete. It is structured in five parts: screener, awareness and association, perception, competitive comparison, and consideration and objections.
@@ -11,7 +11,7 @@ The quantitative survey runs through a [digital form](https://forms.gle/xfsSuxkK
 
 **A3.** Are you currently an active contributor to the Cardano ecosystem, either paid or unpaid? (Yes / No)
 
-*Respondents answering Yes to A3 are screened out of the primary sample and logged separately as an excluded insider group. See Section 2 of [Complete Research Design Document](.../Complete%20Research%20Design%20Document.md) for how this insider group is treated analytically.*
+*Respondents answering Yes to A3 are screened out of the primary sample and logged separately as an excluded insider group. See Section 2 of [Complete Research Design Document](./Complete%20Research%20Design%20Document.md) for how this insider group is treated analytically.*
 
 **Part B: Awareness and Association**
 
