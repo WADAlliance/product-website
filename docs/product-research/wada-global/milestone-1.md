@@ -12,8 +12,8 @@ sidebar_label: "Milestone 1"
 | **Milestone number** | 1 |
 | **Reporting period** | 04/08/2026 – 15/10/2026 |
 | **Grant amount** | 22,500.00 ADA |
-| **Amount claimed this milestone** | 0.00 ADA |
-| **Cumulative amount claimed** | 0.00 ADA |
+| **Amount claimed this milestone** | 2,250.00 ADA |
+| **Cumulative amount claimed** | 2,250.00 ADA |
 
 ## Summary
 We completed and approved a mixed-methods research design to evaluate Cardano’s brand perception across Nigeria, Kenya, and Ghana. We aligned our quantitative and qualitative instruments across all three regional hubs and digitized the survey into a Google Form to prepare for fieldwork.
