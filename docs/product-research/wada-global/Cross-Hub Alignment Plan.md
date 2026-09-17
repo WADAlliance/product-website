@@ -1,4 +1,4 @@
-# Cross-Hub Alignment Plan - Section 3 of The Complete Research Design Document 
+# Cross-Hub Alignment Plan - Section 3 of [Complete Research Design Document](.../Complete%20Research%20Design%20Document.md) 
 
 The three hubs will run the same research design in parallel but not just working independently. The alignment plan has four parts.
 
