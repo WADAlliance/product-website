@@ -1,4 +1,4 @@
-# Sampling Framework - Section 6 of [The Complete Research Design Document](.../Complete%20Research%20Design%20Document.md)
+# Sampling Framework - Section 6 of [Complete Research Design Document](.../Complete%20Research%20Design%20Document.md)
 
 The sampling framework applies the same rules to all three hubs.
 
