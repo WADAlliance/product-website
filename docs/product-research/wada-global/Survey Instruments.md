@@ -11,7 +11,7 @@ The quantitative survey runs through a [digital form](https://forms.gle/xfsSuxkK
 
 **A3.** Are you currently an active contributor to the Cardano ecosystem, either paid or unpaid? (Yes / No)
 
-*"Respondents answering Yes to A3 are screened out of the primary sample and logged separately as an excluded insider group."*
+*Respondents answering Yes to A3 are screened out of the primary sample and logged separately as an excluded insider group. See Section 2 of [Complete Research Design Document](.../Complete%20Research%20Design%20Document.md) for how this insider group is treated analytically.*
 
 **Part B: Awareness and Association**
 
