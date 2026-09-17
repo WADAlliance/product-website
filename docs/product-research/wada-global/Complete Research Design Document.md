@@ -59,7 +59,7 @@ The interviews exist to explain the reasoning behind the survey numbers. Thirty 
 
 Because this project compares perception across three countries, the survey and interview instruments need to carry the same meaning in every hub. Researchers refer to this as measurement invariance or more plainly, construct equivalence. Soler-Anguiano, Rivera-Aragón and Díaz-Loving (2023) show that a correctly translated question can still end up measuring something different once it crosses into another cultural setting. This is because respondents bring different background assumptions to the same words. Full statistical invariance testing of the kind used in large academic surveys sits outside the scope of a ten week applied project, but the underlying discipline still applies here. The same instrument is used in all three hubs with only minor logged local adjustments. For instance, swapping in a locally recognised fintech product as an example where needed and every change is reviewed by all three hub leads together before fieldwork begins. This is the practical field level version of construct equivalence that keeps the comparison fair across Lagos, Nairobi and Accra.
 
-Finally, the project treats Cardano's own community members as a source of bias rather than a valid data source. Respondents already active in the Cardano ecosystem are excluded from the primary sample because their views are not representative of the external audience the research question is actually about. This screening rule is applied consistently across all three hubs and is detailed in the sampling framework in Section 6\.
+Finally, the project treats Cardano's own community members as a source of bias rather than a valid data source. Respondents already active in the Cardano ecosystem are excluded from the primary sample because their views are not representative of the external audience the research question is actually about. Excluded respondents are not discarded. Their answers are logged in a separate insider dataset that may be reviewed afterward as a point of contrast, showing how someone already inside the ecosystem sees things differently from the external audience the study is trying to understand. This insider dataset is analysed on its own and is never merged into the primary baseline or reported as part of the 270 surveys or 30 interviews that make up the headline figures. This screening rule is applied consistently across all three hubs and is detailed in the sampling framework in Section 6\.
 
 # 
 
@@ -89,7 +89,7 @@ Part A: Screener
 
 **A3.** Are you currently an active contributor to the Cardano ecosystem, either paid or unpaid? (Yes / No)
 
-*Respondents answering Yes to A3 are screened out of the primary sample and logged separately as an excluded insider group.*
+*Respondents answering Yes to A3 are screened out of the primary sample and logged separately as an excluded insider group. See Section 2 for how this insider group is treated analytically.*
 
 Part B: Awareness and Association
 
@@ -177,7 +177,7 @@ The sampling framework applies the same rules to all three hubs.
 
 ## 6.1. Quantitative Survey {#6.1.-quantitative-survey}
 
-The target is a minimum of ninety completed surveys per country for a combined total of at least two hundred and seventy across Nigeria, Kenya and Ghana. Respondents are recruited through hub coordinator networks, university partnerships, fintech and developer community groups and local enterprise contacts. Every respondent must pass the screener in Part A. Anyone who answers Yes to being an active paid/unpaid contributor to the Cardano ecosystem is excluded from the main sample.
+The target is a minimum of ninety completed surveys per country for a combined total of at least two hundred and seventy across Nigeria, Kenya and Ghana. Respondents are recruited through hub coordinator networks, university partnerships, fintech and developer community groups and local enterprise contacts. Every respondent must pass the screener in Part A. Anyone who answers Yes to being an active paid/unpaid contributor to the Cardano ecosystem is excluded from the main sample analysed separately as described in Section 2.
 
 ## 6.2. Qualitative Interviews {#6.2.-qualitative-interviews}
 
@@ -192,7 +192,7 @@ Thirty interviews in total, ten per hub, split as shown in the table below. This
 
 ## 6.3. Recruitment Quality Control {#6.3.-recruitment-quality-control}
 
-Before an interview is logged as valid, each hub lead confirms that the respondent meets the role definition for their category and is not a current paid Cardano contributor. A short recruitment log is kept for every respondent, recording how they were found and confirming they meet the screening criteria. This creates a paper trail that Intersect can check if requested.
+Before an interview is logged as valid, each hub lead confirms that the respondent meets the role definition for their category and is not a current paid Cardano contributor. A short recruitment log is kept for every respondent, recording how they were found and confirming they meet the screening criteria. This creates a paper trail that Intersect can check if requested. Excluded insider respondents are recorded in the same way, with their own log, so the count of who was screened out and why is auditable alongside the primary sample.
 
 ## 6.4. Limitations {#6.4.-limitations}
 
