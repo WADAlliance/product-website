@@ -22,17 +22,17 @@ We completed and approved a mixed-methods research design to evaluate Cardano’
 
 | # | Deliverable | Status | Link / Evidence |
 |---|-------------|--------|-----------------|
-| 1 | Research design and methodology | Complete | https://github.com/WADAlliance/product-website/blob/master/docs/product-research/wada-global/Complete%20Research%20Design%20Document.md |
-| 2 | Cross-hub alignment plan | Complete | https://github.com/WADAlliance/product-website/blob/master/docs/product-research/wada-global/Cross-Hub%20Alignment%20Plan.md |
-| 3 | Survey and interview instruments | Complete | https://github.com/WADAlliance/product-website/blob/master/docs/product-research/wada-global/Survey%20Instruments.md |
-| 4 | Sampling framework | Complete | https://github.com/WADAlliance/product-website/blob/master/docs/product-research/wada-global/Sampling%20Framework.md |
+| 1 | Research design and methodology | Complete | [Complete Research Design Document](.../Complete%20Research%20Design%20Document.md) |
+| 2 | Cross-hub alignment plan | Complete | [Cross-Hub Alignment Plan](.../Cross-Hub%20Alignment%20Plan.md) |
+| 3 | Survey and interview instruments | Complete | [Survey Instruments](.../Survey%20Instruments.md) |
+| 4 | Sampling framework | Complete | [Sampling Framework](.../Sampling%20Framework.md) |
 
 ## Evidence
 
-- **Deliverable 1**: [Complete Research Design Document](https://github.com/WADAlliance/product-website/blob/master/docs/product-research/wada-global/Complete%20Research%20Design%20Document.md)
-- **Deliverable 2**: [Cross-Hub Alignment Plan](https://github.com/WADAlliance/product-website/blob/master/docs/product-research/wada-global/Cross-Hub%20Alignment%20Plan.md)
-- **Deliverable 3**: [Survey Instruments](https://github.com/WADAlliance/product-website/blob/master/docs/product-research/wada-global/Survey%20Instruments.md)
-- **Deliverable 4**: [Sampling Framework](https://github.com/WADAlliance/product-website/blob/master/docs/product-research/wada-global/Sampling%20Framework.md)
+- **Deliverable 1**: [Complete Research Design Document](.../Complete%20Research%20Design%20Document.md)
+- **Deliverable 2**: [Cross-Hub Alignment Plan](.../Cross-Hub%20Alignment%20Plan.md)
+- **Deliverable 3**: [Survey Instruments](.../Survey%20Instruments.md)
+- **Deliverable 4**: [Sampling Framework](.../Sampling%20Framework.md)
 
 ## Budget Update
 
