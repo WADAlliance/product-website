@@ -1,10 +1,10 @@
-# Sampling Framework - Section 6 of [Complete Research Design Document](.../Complete%20Research%20Design%20Document.md)
+# Sampling Framework - Section 6 of [Complete Research Design Document](./Complete%20Research%20Design%20Document.md)
 
 The sampling framework applies the same rules to all three hubs.
 
 ## Quantitative Survey 
 
-The target is a minimum of ninety completed surveys per country for a combined total of at least two hundred and seventy across Nigeria, Kenya and Ghana. Respondents are recruited through hub coordinator networks, university partnerships, fintech and developer community groups and local enterprise contacts. Every respondent must pass the screener in Part A. Anyone who answers Yes to being an active paid/unpaid contributor to the Cardano ecosystem is excluded from the main sample and analysed separately as described in Section 2 of [Complete Research Design Document](.../Complete%20Research%20Design%20Document.md) 
+The target is a minimum of ninety completed surveys per country for a combined total of at least two hundred and seventy across Nigeria, Kenya and Ghana. Respondents are recruited through hub coordinator networks, university partnerships, fintech and developer community groups and local enterprise contacts. Every respondent must pass the screener in Part A. Anyone who answers Yes to being an active paid/unpaid contributor to the Cardano ecosystem is excluded from the main sample and analysed separately as described in Section 2 of [Complete Research Design Document](./Complete%20Research%20Design%20Document.md) 
 
 ## Qualitative Interviews 
 
