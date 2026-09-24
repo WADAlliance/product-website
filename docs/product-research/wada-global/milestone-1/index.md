@@ -1,6 +1,7 @@
 ---
 title: "CPC-26-0012: A Multi-Hub Message-Testing Baseline (Nigeria, Kenya, Ghana) — Milestone 1"
 sidebar_label: "Milestone 1"
+sidebar_position: 0
 ---
 
 # A Multi-Hub Message-Testing Baseline (Nigeria, Kenya, Ghana) — Milestone 1
