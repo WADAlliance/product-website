@@ -1,6 +1,6 @@
 ---
-title: "Brand Perception and Competitive Positioning: Research Design"
-sidebar_label: "Research Design Document"
+title: "Brand Perception and Competitive Positioning: Complete Research Design"
+sidebar_label: "Complete Research Design Document"
 ---
 
 # 
