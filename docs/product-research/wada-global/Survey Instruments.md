@@ -1,3 +1,8 @@
+---
+title: "Survey Instruments"
+sidebar_label: "Survey Instruments"
+---
+
 # Survey Instruments - Section 4 of [Complete Research Design Document](./Complete%20Research%20Design%20Document.md)
 
 ## Quantitative Survey
