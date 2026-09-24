@@ -1,3 +1,8 @@
+---
+title: "Brand Perception and Competitive Positioning: Research Design"
+sidebar_label: "Research Design Document"
+---
+
 # 
 
 RFP 04: Brand Awareness and Perception 
