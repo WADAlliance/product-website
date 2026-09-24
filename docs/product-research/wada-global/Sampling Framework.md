@@ -1,3 +1,8 @@
+---
+title: "Sampling Framework"
+sidebar_label: "Sampling Framework"
+---
+
 # Sampling Framework - Section 6 of [Complete Research Design Document](./Complete%20Research%20Design%20Document.md)
 
 The sampling framework applies the same rules to all three hubs.
