@@ -40,9 +40,9 @@ We completed and approved a mixed-methods research design to evaluate Cardano’
 | Category | Budgeted (ADA) | Spent this period (ADA) | Cumulative spend (ADA) |
 |----------|---------------|------------------------|------------------------|
 | Research Design & Cross-Hub Alignment | 2,250.00 ADA | 2,250.00 ADA | 2,250.00 ADA |
-| Sponsored Hub Fieldwork & Primary Collection | 6,750.00 ADA | 0.00 ADA | 2,250.00 ADA |
-| Cross-Border Benchmarking & Data Synthesis | 6,750.00 ADA | 0.00 ADA | 2,250.00 ADA |
-| Final Output Production & CPS Authoring | 6,750.00 ADA | 0.00 ADA | 2,250.00 ADA |
+| Sponsored Hub Fieldwork & Primary Collection | 6,750.00 ADA | 0.00 ADA | 0.00 ADA |
+| Cross-Border Benchmarking & Data Synthesis | 6,750.00 ADA | 0.00 ADA | 0.00 ADA |
+| Final Output Production & CPS Authoring | 6,750.00 ADA | 0.00 ADA | 0.00 ADA |
 | **Total** | 22,500.00 ADA | 2,250.00 ADA | 2,250.00 ADA |
 
 ## Issues and Blockers
